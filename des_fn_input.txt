@@ -1,0 +1,7 @@
+FFFFFFFF
+000000000000
+
+F0AAF0AA
+1B02EFFC7072
+#plain (8 -> 32 bit)
+#round key (12 -> 48 bit)

@@ -1,0 +1,12 @@
+my $x = 5;
+my $x;
+$x++;
+## 1
+
+
+print($x);
+our $y = 5;
+our $y;
+$y++;
+print($y);
+## 6
